@@ -1,0 +1,37 @@
+.boxone {
+  border: 3px solid black;
+  padding: 12px;
+  margin-top: 30px;
+  text-align: center;
+  color: rgb(81, 81, 211);
+  width: 600px;
+}
+
+.annoy-me{
+  border: 3px solid black;
+  margin-top:13px;
+  margin-right: 12px;
+  max-width: 400px;
+  width: 75%;
+}
+
+.boxthree{
+  position: relative;
+  width: 25%;
+  border: 3px solid black;
+
+}
+
+#temperature{
+  font-size: 40px;
+}
+
+.column {
+  float: left; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.columns:after {
+  content: "";
+  display: table;
+  clear: both;
