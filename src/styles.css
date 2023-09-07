@@ -7,22 +7,21 @@
   width: 600px;
 }
 
-.annoy-me{
+.annoy-me {
   border: 3px solid black;
-  margin-top:13px;
+  margin-top: 13px;
   margin-right: 12px;
   max-width: 400px;
   width: 75%;
 }
 
-.boxthree{
+.boxthree {
   position: relative;
   width: 25%;
   border: 3px solid black;
-
 }
 
-#temperature{
+#temperature {
   font-size: 40px;
 }
 
@@ -35,3 +34,4 @@
   content: "";
   display: table;
   clear: both;
+}
